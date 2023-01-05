@@ -1,5 +1,3 @@
-pub use super::point;
-
 #[derive(Debug, Clone, Copy)]
 pub struct Rect2 {
     pub width: u32,
